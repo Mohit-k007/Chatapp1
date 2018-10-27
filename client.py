@@ -1,6 +1,4 @@
 import socket
-import sys
-import time
 
 s = socket.socket()
 host = input(str("Please input the hostname of the server:"))
